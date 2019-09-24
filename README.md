@@ -1,5 +1,5 @@
 # EnhancedScrollView
-Cool "3d" scoll view for Unity3D 4.x and 5.x version
+Cool "3d" scoll view for Unity3D 4.x and 5.x version 滚动轮
 **NGUI and UGUI support**
 
 Using Unity3d's AnimationCurve to finish this EnhancedScrollView.AnimationCurve is very powerful and useful tools in developing game,the player's jumping, camera's path and so on.
